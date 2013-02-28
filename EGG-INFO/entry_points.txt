@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.Rackspace.APC = ZenPacks.Rackspace.APC
+
